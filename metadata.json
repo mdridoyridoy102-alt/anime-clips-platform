@@ -1,0 +1,6 @@
+{
+  "name": "AnimeClips",
+  "description": "Premium anime clips, full seasons, episodes, 4K resources, AMV packs, community discussions, events, blog, and admin portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
